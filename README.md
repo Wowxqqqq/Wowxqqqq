@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tristan van der Merwe
 - 👀 I’m interested in web development, cybersecurity and cryptography.
-- 🌱 I’m currently learning React as well as Docker.
+- 🌱 I’m currently learning Angular as well as Docker.
 - 💞️ I’m looking to collaborate on any fun and/or intresting new website development projects.
 - 📫 To reach me, please email wowxqqq@gmail.com.
 
